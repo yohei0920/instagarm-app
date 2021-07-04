@@ -1,24 +1,14 @@
-# README
+# インスタグラム風アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 機能
+・Deviseを用いたサインイン・サインアップ
+・投稿
+・画像アップロード
+・ いいね
+・コメント投稿
 
-Things you may want to cover:
+## 今後の実装
+・テスト
+・ハッシュタグ
+・投稿検索
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
